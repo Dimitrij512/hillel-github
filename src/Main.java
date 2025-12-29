@@ -6,7 +6,7 @@ public class Main {
         System.out.println(c);
 
         String text1 = "text";
-        String text2 = new String("text");
+        String text2 = "text";
         System.out.println(text1.equals(text2));
 
         Boolean b1 = false;
