@@ -5,8 +5,8 @@ public class Main {
         System.out.println(Integer.MAX_VALUE);
         System.out.println(c);
 
-        String text1 = "text";
-        String text2 = "text";
+        String text1 = "text-1";
+        String text2 = "text-1";
         System.out.println(text1.equals(text2));
 
         Boolean b1 = false;
